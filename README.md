@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development and web 3.0
 - 🌱 I’m currently learning Web development
 - 💞️ I’m looking to collaborate on frontend development
-- 📫 you can reachme at ksumithchandra@gmail.com
+- 📫 you can reachme at ksumithchandra2@gmail.com
 
 
 
