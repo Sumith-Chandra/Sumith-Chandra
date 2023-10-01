@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/sumithchandra15" target="blank"><img src="https://img.shields.io/twitter/follow/sumithchandra15?logo=twitter&style=for-the-badge" alt="sumithchandra15" /></a> </p>
 
-- 🔭 I’m currently working on **Cloud**
+- 🔭 I’m currently working on **DEVOPS/SRE**
 
-- 🌱 I’m currently learning **Backend & Cloud**
+- 🌱 I’m currently learning **WEB DEVELOPMENT & DEVOPS**
 
 - 📫 How to reach me **ksumithchandra2@gmail.com**
 
