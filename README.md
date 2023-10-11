@@ -26,8 +26,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sumith-chandra&show_icons=true&locale=en&layout=compact" alt="sumith-chandra" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sumith-chandra&show_icons=true&locale=en" alt="sumith-chandra" /></p>
-[![An image of @sumithchandra15's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sumithchandra15)](https://holopin.io/@sumithchandra15)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sumith-chandra&" alt="sumith-chandra" /></p>
 
