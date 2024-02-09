@@ -1,5 +1,14 @@
+  
 <h1 align="center">Hi 👋, I'm Sumith Chandra</h1>
 <h3 align="center">A passionate DevOps & Web developer from India</h3>
+<!--Snake Contribution Graph-->    
+    
+![𝙶𝚒𝚝𝚑𝚞𝚋 𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗 𝙶𝚛𝚊𝚙𝚑](/contributiongrid.svg)
+    
+<br/>
+    
+<!--Snake Contribution Graph Ends--> 
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sumith-chandra&label=Profile%20views&color=0e75b6&style=flat" alt="sumith-chandra" /> </p>
 
